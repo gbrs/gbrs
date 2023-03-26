@@ -65,7 +65,7 @@
 
 ### Пройденные курсы
 
-Курс «Симулятор SQL»   [сертификат](https://lab.karpov.courses/live_certificate/0a1161d1-086e-4063-bf36-6536cce7a2fe/)
+Курс «Симулятор SQL»   [сертификат](https://lab.karpov.courses/live_certificate/0a1161d1-086e-4063-bf36-6536cce7a2fe/)  
 *расчет продуктовых метрик, построение дашбордов в Redash, оконные функции*
 
 Интерактивный тренажер по SQL   [сертификат](https://stepik.org/cert/1635619)  
