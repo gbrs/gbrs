@@ -42,7 +42,14 @@
   <tr>
     <td>
       <img align="left" alt="PowerBI" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/240px-New_Power_BI_Logo.svg.png"/>
+      <img align="left" alt="DataLens" width="32px" src="https://336118.selcdn.ru/Gutsy-Culebra/products/Yandex-DataLens-Logo.png"/>
+          <img align="left" alt="Looker Studio" width="32px" src="https://avatars.githubusercontent.com/u/83476159?v=4?s=400"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img align="left" alt="msoffice" width="32px" src="https://www.clipartkey.com/mpngs/m/33-334624_create-your-own-custom-word-excel-or-powerpoint.png"/>
+      <img align="left" alt="googleoffice" width="32px" src="https://phandroid.s3.amazonaws.com/wp-content/uploads/2014/10/Google-Drive-Docs-Slides-Sheets-Material-update-640x630.jpg"/>
       <img align="left" alt="1С" width="32px" src="https://sun6-23.userapi.com/s/v1/if1/8KjYGSOFvT__bP312Y4TZZSsYaNwZePe7O_usqd4s9qltUdWulz-wVXWfo4ciuymVnVwKuBT.jpg?size=841x841&quality=96&crop=29,29,841,841&ava=1"/>
     </td>
   </tr>
