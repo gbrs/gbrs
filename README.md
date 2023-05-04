@@ -109,7 +109,7 @@ Deep Learning: базовый поток   [курс](https://stepik.org/course/
 *структуры данных, рекурсия, структуры*
 
 
-[РЕЗЮМЕ](https://drive.google.com/file/d/1TgJSYq_oxEfdpjeNq1stwyT7tBLmQVse/view?usp=share_link)  
+[РЕЗЮМЕ](https://drive.google.com/file/d/1KF1Gwi_bzPJK-dzB9tFfHSkcpOeAz-Ck/view?usp=sharing)  
 gbrs@mail.ru  
 https://vk.com/id1296920
 
