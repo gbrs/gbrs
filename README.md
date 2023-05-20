@@ -78,7 +78,7 @@
 Интерактивный тренажер по SQL   [сертификат](https://stepik.org/cert/1635619)  
 *оконные функции, CTE, соединения, подзапросы*  
 
-Deep Learning: базовый поток   [курс](https://stepik.org/course/109539/syllabus)  
+Deep Learning: продвинутый поток   [курс](https://drive.google.com/file/d/19z6MoKnH_J4BX9cSVJqRMKGLXkGSqaIQ/view?usp=share_link)  
 *sklearn, pytorch, pandas, numpy; композиции алгоритмов, сверточные сети, Transfer Learning*  
 
 Введение в машинное обучение   [сертификат](https://edu.sirius.online/certificate_ydYOQPj2)  
