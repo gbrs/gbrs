@@ -65,9 +65,9 @@
 * [x] закончить раздел Анализ продуктовых метрик Симулятора SQL Karpov Courses;
 * [x] попрактиковаться с Google sheets (не работал с ними раньше) на курсе "Excel для работы" от Яндекс Практикум;
 * [ ] глубже погрузиться в PowerBI c itempuniversity.com (занырнуть глубже в визуализацию и в DAX);
-* [x] познакомится с APIшками разными;
-* [ ] познакомится с Docker;
-* [ ] познакомится с Airflow;
+* [x] познакомиться с APIшками разными;
+* [ ] познакомиться с Docker;
+* [ ] познакомиться с Airflow;
 * [ ] немного углубиться в теорию ML: пока мой опыт был совсем на уровне "обезьяна с гранатой", я нажал enter и сработало...
 
 
@@ -112,6 +112,8 @@ Deep Learning: продвинутый поток   [сертификат](https:
 
 
 [РЕЗЮМЕ](https://drive.google.com/file/d/1KF1Gwi_bzPJK-dzB9tFfHSkcpOeAz-Ck/view?usp=sharing)  
+[Дашборд DataLens](https://datalens.yandex/vjliy8pmvnk6l)
+
 gbrs@mail.ru  
 https://vk.com/id1296920
 
