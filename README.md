@@ -113,6 +113,7 @@ Deep Learning: продвинутый поток   [сертификат](https:
 
 [РЕЗЮМЕ](https://drive.google.com/file/d/1KF1Gwi_bzPJK-dzB9tFfHSkcpOeAz-Ck/view?usp=sharing)  
 [Дашборд DataLens](https://datalens.yandex/vjliy8pmvnk6l)
+[ABC-, XYZ-, FMR-, RFM-анализы](https://docs.google.com/spreadsheets/d/1rx78h7b66OKDXlLVnyO5Drp-YDDf8yQA/edit?usp=sharing&ouid=111900585423920029755&rtpof=true&sd=true)
 
 gbrs@mail.ru  
 https://vk.com/id1296920
