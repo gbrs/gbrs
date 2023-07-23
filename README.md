@@ -1,6 +1,6 @@
 ### Здравствуйте!
 
-Однажды ребенок решил осваивать программирование. И я решил ему подсобить. Для этого записался на курс по Python. И понеслось...  
+Однажды ребенок решил осваивать программирование. И я решил ему помочь. Для этого записался на курс по Python. И понеслось...  
 Что-то в этом зацепило и "очнувшись" обнаруживаю пройденными курсы по SQL и статистике, Linux и GIT, машинному обучению и нейросетям, Pandas и иже с ним.  
 Мне нравится изучать что-то новое, копая сначала в ширину, а потом в глубь. Разбираться в сплывающих ошибках, разрешать или обходить их.  
 Я завидую людям, находящим более простые и красивые решения, чем я. Стараюсь, в меру своих сил, повторять их подходы. Люблю курсы, в которых можно посмотреть, как решили задачу другие люди.  
@@ -74,52 +74,52 @@
 
 ### Пройденные курсы
 
-Курс «Симулятор SQL»   [сертификат](https://lab.karpov.courses/live_certificate/0a1161d1-086e-4063-bf36-6536cce7a2fe/)  
-*расчет продуктовых метрик, построение дашбордов в Redash, оконные функции*
+Курс «Симулятор SQL»   [сертификат](https://drive.google.com/file/d/1BaSDdH6XClKwFtyUFQ5Qi7FH-NQm6C2_/view?usp=drive_link)  
+рассчитывал *продуктовые метрики*, строил дашборды в *Redash*
 
 Интерактивный тренажер по SQL   [сертификат](https://stepik.org/cert/1635619)  
-*оконные функции, CTE, соединения, подзапросы*  
+писал запросы с *оконными функциями*, CTE, подзапросами, соединениями 
 
 Deep Learning: продвинутый поток   [сертификат](https://drive.google.com/file/d/19z6MoKnH_J4BX9cSVJqRMKGLXkGSqaIQ/view?usp=share_link)  
-*sklearn, pytorch, pandas, numpy; композиции алгоритмов, сверточные сети, Transfer Learning*  
+использовал *композиции алгоритмов*, сверточные сети, Transfer Learning, производил классификацию и сегментацию изображений. Работал с библиотеками Scikit-learn, Pytorch
 
 Введение в машинное обучение   [сертификат](https://edu.sirius.online/certificate_ydYOQPj2)  
-*подготовка факторов, подбор (гипер)параметров, оценка качества модели, задачи регрессии и классификации*  
+подготавливал факторы, подбирал (гипер)параметры, оценивал качество модели, исследовал модели для задач регрессии и классификации 
 
 Основы Pandas для начинающих   [курс](https://stepik.org/course/120014/syllabus)  
-*подготовка данных, разные типы файлов, pandas, numpy*  
+*подготавливал данные*, работал с разными типами файлов, *pandas*, *numpy* 
 
 Основы статистики   [сертификат](https://stepik.org/cert/49860)  
-*АБ тесты, регрессия, дисперсионный анализ, корреляция*  
+*АБ тесты*, регрессия, дисперсионный анализ, корреляция  
 
 Введение в Linux   [сертификат](https://stepik.org/cert/1823690)  
-*работа с сервером, архивами, права доступа*  
+работал с сервером, архивацией, правами доступа 
 
 Программирование на Python   [сертификат](https://stepik.org/cert/386101)  
-*numpy, matplotlib, работа с файлами, модулями*  
-
-Основы программирования на Python   [курс](https://www.coursera.org/learn/python-osnovy-programmirovaniya)  
-*множества и словари, функциональный стиль, ООП*
+освоил работу с функциями, файлами и модулями, numpy, matplotlib  
 
 Поколение Python   [сертификат](https://stepik.org/cert/1129480)  
-*коллекции, функции, структурное программирование*  
+решал алгоритмические задачи с использованием разных видов коллекций 
+
+Основы программирования на Python   [курс](https://www.coursera.org/learn/python-osnovy-programmirovaniya)  
+множества и словари, функциональный стиль, ООП
 
 Регулярные выражения в Python   [курс](https://stepik.org/course/107335)  
-*жадные/ленивые квантификаторы, скобочные выражения, модуль re*
+жадные/ленивые квантификаторы, скобочные выражения, модуль re
 
 Введение в программирование (C++)   [сертификат](https://stepik.org/cert/1072641)  
-*структуры данных, рекурсия, структуры*
+структуры данных, рекурсия, структуры
 
 
-[РЕЗЮМЕ](https://drive.google.com/file/d/1KF1Gwi_bzPJK-dzB9tFfHSkcpOeAz-Ck/view?usp=sharing)  
+[РЕЗЮМЕ](https://drive.google.com/file/d/1Hq7tkjHYKHG0JESRVAKFSuJ69FR9LKX2/view?usp=drive_link)  
 
 ### Портфолио
 [Дашборд DataLens](https://datalens.yandex/vjliy8pmvnk6l)  
+[Дашборд Looker Studio](https://lookerstudio.google.com/reporting/608374f3-071a-44df-874c-dfeac1327158/page/CRPVD)  
 [ABC-, XYZ-, FMR-, RFM-анализы  в Excel](https://docs.google.com/spreadsheets/d/1rx78h7b66OKDXlLVnyO5Drp-YDDf8yQA/edit?usp=sharing&ouid=111900585423920029755&rtpof=true&sd=true)  
-[Дашборд Looker Studio](https://lookerstudio.google.com/reporting/608374f3-071a-44df-874c-dfeac1327158/page/CRPVD)
 
 
 gbrs@mail.ru  
 https://vk.com/id1296920
 
-<font size=2>*sql mysql postgresql git linux markdown python jupyter notebook pandas numpy matplotlib seaborn sklearn pytorch яндекс.метрика google analytics wordpress powerbi datalens lookerstudio ms office google office 1с*</font>
+<font size=2>*sql mysql postgresql git linux markdown python jupyter notebook pandas numpy matplotlib seaborn skikit-learn pytorch яндекс.метрика google analytics wordpress powerbi datalens looker studio ms office google office 1с*</font>
