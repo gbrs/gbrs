@@ -117,7 +117,7 @@ Deep Learning: продвинутый поток   [сертификат](https:
 [Дашборд DataLens](https://datalens.yandex/vjliy8pmvnk6l)  
 [Дашборд Looker Studio](https://lookerstudio.google.com/reporting/608374f3-071a-44df-874c-dfeac1327158/page/CRPVD)  
 [ABC-, XYZ-, FMR-, RFM-анализы  в Excel](https://docs.google.com/spreadsheets/d/1rx78h7b66OKDXlLVnyO5Drp-YDDf8yQA/edit?usp=sharing&ouid=111900585423920029755&rtpof=true&sd=true)  
-[Ноутбук с анализом датасета](https://drive.google.com/file/d/14oeJyv2P4xD8m3nPaYSpi_TEY1UcsIGE/view?usp=sharing)
+[Ноутбук с анализом датасета](https://drive.google.com/file/d/14oeJyv2P4xD8m3nPaYSpi_TEY1UcsIGE/view?usp=sharing)  
 [Ноутбук с семантической сегментацией](https://drive.google.com/file/d/1CnhxL1jJOzbxKYId4h-dJF-0aez5oPjR/view?usp=sharing)
 
 gbrs@mail.ru  
