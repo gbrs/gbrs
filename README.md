@@ -107,6 +107,8 @@ Deep Learning: продвинутый поток   [сертификат](https:
 Введение в программирование (C++)   [сертификат](https://stepik.org/cert/1072641)  
 структуры данных, рекурсия, структуры
 
+Математика для Data Science [сертификат](https://drive.google.com/file/d/1NULb3179_yBl8A6-OVD-9BQZy0j05uDV/view?usp=sharing)
+математический анализ, линейная алгебра для Data Science
 
 [РЕЗЮМЕ](https://drive.google.com/file/d/1Hq7tkjHYKHG0JESRVAKFSuJ69FR9LKX2/view?usp=drive_link)  
 
