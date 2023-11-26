@@ -71,6 +71,9 @@
 Интерактивный тренажер по SQL   [сертификат](https://stepik.org/cert/1635619)  
 освоил запросы с *оконными функциями*, CTE, подзапросами, соединениями 
 
+Анализ данных на Python   [сертификат](https://edu.sirius.online/certificate_DX3EgZOr)
+изучил *pandas*, разрабатывал метрики, проводил *исследовательский анализ* данных, визуальный анализ, проверял *гипотезы*
+
 Deep Learning: продвинутый поток   [сертификат](https://drive.google.com/file/d/19z6MoKnH_J4BX9cSVJqRMKGLXkGSqaIQ/view?usp=share_link)  
 использовал *композиции алгоритмов*, сверточные сети, Transfer Learning, производил классификацию и сегментацию изображений. Работал с библиотеками Scikit-learn, Pytorch
 
