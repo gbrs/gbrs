@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/telegram-lightblue" alt="telegram">
   </a>
 </div>
+
 <table align="center">
   <tr>
     <td>
@@ -60,9 +61,9 @@
   </tr>
 </table>
 
-<div align="center">
+<div align="center"> 
   <a href="https://drive.google.com/file/d/1Hq7tkjHYKHG0JESRVAKFSuJ69FR9LKX2/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/РЕЗЮМЕ-darkgreen" alt="резюме">
+    <img src="https://img.shields.io/badge/РЕЗЮМЕ-red" alt="резюме">
   </a>
 </div>
 
@@ -126,7 +127,11 @@ Deep Learning: продвинутый поток   [сертификат](https:
 Я завидую людям, находящим более простые и красивые решения, чем я. Стараюсь, в меру своих сил, повторять их подходы. Люблю курсы, в которых можно посмотреть, как решили задачу другие люди.  
 
 [почта](gbrs@mail.ru)  
-[VK](https://vk.com/id1296920)  
+[vk](https://vk.com/id1296920)  
 [Telegram](https://t.me/yu_boris)
 
 <font size=1>*sql mysql postgresql git linux markdown python jupyter notebook pandas numpy matplotlib seaborn skikit-learn pytorch яндекс.метрика google analytics wordpress powerbi datalens looker studio ms office google office 1с*</font>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gbrs&style=flat-square&color=blue" align='center'>
+</div>
