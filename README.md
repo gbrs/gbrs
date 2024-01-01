@@ -34,7 +34,7 @@
   <tr>
     <td>
       <img align="left" alt="yandex" width="32px" src="https://bv-dev.ru/wp-content/uploads/2021/03/Яндекс.Метрика.png"/>
-      <img align="left" alt="google" width="32px" src="https://www.pinclipart.com/picdir/big/403-4035318_stacks-image-google-analytics-icon-vector-clipart.png"/>
+      <img align="left" alt="google" width="32px" src="https://sales-generator.ru/upload/medialibrary/b95/xb9553323437874c53ccd56da4c5f0c6c.jpg.pagespeed.ic.q0B6GaJYNI.jpg"/>
       <img align="left" alt="wordpress" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"/>
     </td>
   </tr>
