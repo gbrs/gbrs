@@ -134,7 +134,7 @@ Deep Learning: продвинутый поток   [сертификат](https:
 
 _____
 
-[почта](gbrs@mail.ru)  
+[почта](mailto:gbrs@mail.ru)  
 [vk](https://vk.com/id1296920)  
 [Telegram](https://t.me/yu_boris)
 
