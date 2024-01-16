@@ -123,7 +123,7 @@ Deep Learning: продвинутый поток   [сертификат](https:
 Математика для Data Science [сертификат](https://drive.google.com/file/d/1NULb3179_yBl8A6-OVD-9BQZy0j05uDV/view?usp=sharing)  
 математический анализ и линейная алгебра для Data Science
 
-Теория вероятностей и математическая статистика [сертификат](https://edu.sirius.online/certificate_QjBP7bgd)
+Теория вероятностей и математическая статистика [сертификат](https://edu.sirius.online/certificate_QjBP7bgd)  
 теоретические основы: условная вероятность, случайные графы, Бернулли, Марков, Чебышёв
 
 <h3 align='center'>О себе</h3>
