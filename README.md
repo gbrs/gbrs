@@ -72,9 +72,10 @@
 1. [SQL-запросы, Redash](https://github.com/gbrs/sql_ex/blob/main/sql_simulator_karpov_courses.md)
 2. [Дашборд DataLens](https://datalens.yandex/vjliy8pmvnk6l)  
 3. [Дашборд Looker Studio](https://lookerstudio.google.com/reporting/608374f3-071a-44df-874c-dfeac1327158/page/CRPVD)
-4. [ABC-, XYZ-, FMR-, RFM-анализы  в Excel](https://docs.google.com/spreadsheets/d/1rx78h7b66OKDXlLVnyO5Drp-YDDf8yQA/edit?usp=sharing&ouid=111900585423920029755&rtpof=true&sd=true)  
-5. [Ноутбук с анализом датасета](https://github.com/gbrs/python_math_intensive/blob/master/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%207%20version%203.ipynb)  
-6. [Ноутбук с семантической сегментацией](https://github.com/gbrs/DLS_1_2022_spring/blob/master/adv%2016%20%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.%20%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9/semantic_segmentation_adv%20Yugay.ipynb)
+4. [ABC-, XYZ-, FMR-, RFM-анализы  в Excel](https://docs.google.com/spreadsheets/d/1rx78h7b66OKDXlLVnyO5Drp-YDDf8yQA/edit?usp=sharing&ouid=111900585423920029755&rtpof=true&sd=true)
+5. [Ноутбук 30_days_of_pandas](https://github.com/gbrs/ipython_notebook_probes/blob/master/30_days_of_pandas.ipynb)  
+6. [Ноутбук с анализом датасета](https://github.com/gbrs/python_math_intensive/blob/master/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%207%20version%203.ipynb)  
+7. [Ноутбук с семантической сегментацией](https://github.com/gbrs/DLS_1_2022_spring/blob/master/adv%2016%20%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.%20%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9/semantic_segmentation_adv%20Yugay.ipynb)
 
 <h3 align='center'>Пройденные курсы</h3>
 
