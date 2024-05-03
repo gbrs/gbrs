@@ -69,12 +69,12 @@
 
 <h3 align='center'>Портфолио</h3>
 
-1. [SQL-запросы, Redash](https://github.com/gbrs/sql_ex/blob/main/sql_simulator_karpov_courses.md)
-2. [Дашборд DataLens](https://datalens.yandex/vjliy8pmvnk6l)  
-3. [Дашборд Looker Studio](https://lookerstudio.google.com/reporting/608374f3-071a-44df-874c-dfeac1327158/page/CRPVD)
-4. [ABC-, XYZ-, FMR-, RFM-анализы  в Excel](https://docs.google.com/spreadsheets/d/1rx78h7b66OKDXlLVnyO5Drp-YDDf8yQA/edit?usp=sharing&ouid=111900585423920029755&rtpof=true&sd=true)
-5. [Ноутбук 30_days_of_pandas](https://github.com/gbrs/ipython_notebook_probes/blob/master/30_days_of_pandas.ipynb)  
-6. [Ноутбук с семантической сегментацией](https://github.com/gbrs/DLS_1_2022_spring/blob/master/semantic_segmentation.ipynb)
+1. <a href="https://github.com/gbrs/sql_ex/blob/main/sql_simulator_karpov_courses.md" target="_blank">SQL-запросы, Redash</a>
+2. <a href="https://datalens.yandex/vjliy8pmvnk6l" target="_blank">Дашборд DataLens</a>
+3. <a href="https://lookerstudio.google.com/reporting/608374f3-071a-44df-874c-dfeac1327158/page/CRPVD" target="_blank">Дашборд Looker Studio</a>
+4. <a href="https://docs.google.com/spreadsheets/d/1rx78h7b66OKDXlLVnyO5Drp-YDDf8yQA/edit?usp=sharing&ouid=111900585423920029755&rtpof=true&sd=true" target="_blank">ABC-, XYZ-, FMR-, RFM-анализы  в Excel</a>
+5. <a href="https://github.com/gbrs/ipython_notebook_probes/blob/master/30_days_of_pandas.ipynb" target="_blank">Ноутбук 30_days_of_pandas</a>
+6. <a href="https://github.com/gbrs/DLS_1_2022_spring/blob/master/semantic_segmentation.ipynb" target="_blank">Ноутбук с семантической сегментацией</a>
 
 <h3 align='center'>Пройденные курсы</h3>
 
