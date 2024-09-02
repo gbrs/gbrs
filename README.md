@@ -60,7 +60,7 @@
     </td>
   </tr>
 </table>
-
+  
 <div align="center"> 
   <a href="https://drive.google.com/file/d/1Hq7tkjHYKHG0JESRVAKFSuJ69FR9LKX2/view?usp=drive_link">
     <img src="https://img.shields.io/badge/РЕЗЮМЕ-red" alt="резюме">
@@ -144,5 +144,9 @@ _____
 <font size=1>*sql mysql postgresql git linux markdown python jupyter notebook pandas numpy matplotlib seaborn skikit-learn pytorch яндекс.метрика google analytics wordpress powerbi datalens looker studio ms office google office 1с*</font>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gbrs&style=flat-square&color=blue" align='center'>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=gbrs&theme=dark&background=000000" alt="GitHub Streak" /></a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gbrs&style=flat-square&color=blue">
 </div>
