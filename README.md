@@ -54,7 +54,7 @@
   </tr>
   <tr>
     <td>
-      <img align="left" alt="msoffice" width="32px" src="https://www.clipartkey.com/mpngs/m/33-334624_create-your-own-custom-word-excel-or-powerpoint.png"/>
+      <img align="left" alt="msoffice" width="32px" src="https://avatars.akamai.steamstatic.com/cda22376aaea3b38da1f6fa609472af1882f30f0_full.jpg"/>
       <img align="left" alt="googleoffice" width="32px" src="https://phandroid.s3.amazonaws.com/wp-content/uploads/2014/10/Google-Drive-Docs-Slides-Sheets-Material-update-640x630.jpg"/>
       <img align="left" alt="1С" width="32px" src="https://sun6-23.userapi.com/s/v1/if1/8KjYGSOFvT__bP312Y4TZZSsYaNwZePe7O_usqd4s9qltUdWulz-wVXWfo4ciuymVnVwKuBT.jpg?size=841x841&quality=96&crop=29,29,841,841&ava=1"/>
     </td>
