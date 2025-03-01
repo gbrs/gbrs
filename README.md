@@ -70,7 +70,7 @@
 <h3 align='center'>Портфолио</h3>
 
 1. <a href="https://github.com/gbrs/sql_ex/blob/main/sql_simulator_karpov_courses.md" target="_blank">SQL-запросы, Redash</a>
-2. Дашбордs в: <a href="https://datalens.yandex/vjliy8pmvnk6l" target="_blank">DataLens</a>, <a href="https://lookerstudio.google.com/reporting/608374f3-071a-44df-874c-dfeac1327158/page/CRPVD" target="_blank">Looker Studio</a>, <a href="https://sites.google.com/view/gabris/power-bi" target="_blank">Power BI</a>, <a href="https://sites.google.com/view/gabris/redash" target="_blank">Redash</a> 
+2. Дашборды в: <a href="https://datalens.yandex/vjliy8pmvnk6l" target="_blank">DataLens</a>, <a href="https://lookerstudio.google.com/reporting/608374f3-071a-44df-874c-dfeac1327158/page/CRPVD" target="_blank">Looker Studio</a>, <a href="https://sites.google.com/view/gabris/power-bi" target="_blank">Power BI</a>, <a href="https://sites.google.com/view/gabris/redash" target="_blank">Redash</a> 
 3. <a href="https://docs.google.com/spreadsheets/d/1rx78h7b66OKDXlLVnyO5Drp-YDDf8yQA/edit?usp=sharing&ouid=111900585423920029755&rtpof=true&sd=true" target="_blank">ABC-, XYZ-, FMR-, RFM-анализы  в Excel</a>
 4. <a href="https://github.com/gbrs/ipython_notebook_probes/blob/master/30_days_of_pandas.ipynb" target="_blank">Ноутбук 30_days_of_pandas</a>
 5. <a href="https://github.com/gbrs/DLS_1_2022_spring/blob/master/semantic_segmentation.ipynb" target="_blank">Ноутбук с семантической сегментацией</a>
