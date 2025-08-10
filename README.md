@@ -72,7 +72,8 @@
 1. <a href="https://github.com/gbrs/sql_ex/blob/main/sql_simulator_karpov_courses.md" target="_blank">SQL-запросы, Redash</a>
 2. Дашборды в: <a href="https://sites.google.com/view/gabris/power-bi" target="_blank">Power BI</a>, <a href="https://sites.google.com/view/gabris/superset" target="_blank">Superset</a>, <a href="https://datalens.yandex/vjliy8pmvnk6l" target="_blank">DataLens</a>, <a href="https://lookerstudio.google.com/reporting/608374f3-071a-44df-874c-dfeac1327158/page/CRPVD" target="_blank">Looker Studio</a>, <a href="https://sites.google.com/view/gabris/redash" target="_blank">Redash</a>,  <a href="https://sites.google.com/view/gabris/excel" target="_blank">Excel</a>
 3. <a href="https://drive.google.com/uc?export=download&id=1rx78h7b66OKDXlLVnyO5Drp-YDDf8yQA" target="_blank">ABC-, XYZ-, FMR-, RFM-анализы  в Excel</a>
-4. <a href="https://github.com/gbrs/DLS_1_2022_spring/blob/master/semantic_segmentation.ipynb" target="_blank">Ноутбук с семантической сегментацией</a>
+4. <a href="https://github.com/gbrs/ab_tests_various_methods/blob/main/2_ratio_metrics.ipynb" target="_blank">Ноутбуки с A/B-тестами</a>
+5. <a href="https://github.com/gbrs/DLS_1_2022_spring/blob/master/semantic_segmentation.ipynb" target="_blank">Ноутбук с семантической сегментацией</a>
 
 <h3 align='center'>Пройденные курсы</h3>
 
