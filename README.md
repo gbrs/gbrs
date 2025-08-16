@@ -77,6 +77,9 @@
 
 <h3 align='center'>Пройденные курсы</h3>
 
+Интенсив по A/B-тестированию ШАД   [сертификат](https://drive.google.com/file/d/172iPyn4f1PEaQNIguyedrsE7RCtxHOif/view?usp=sharing)  
+использовал методы *уменьшения дисперсии*: *CUPED*, *стратификация*. Работал с *метриками отношений*: *линеаризация*, *дельта*-метод, *бакетизация*, бутстрап
+
 Курс «Симулятор SQL»   [сертификат](https://drive.google.com/file/d/1BaSDdH6XClKwFtyUFQ5Qi7FH-NQm6C2_/view?usp=drive_link)  
 научился рассчитывать *продуктовые метрики*, строил дашборды в *Redash*
 
