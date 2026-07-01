@@ -131,7 +131,7 @@ _____
 [vk](https://vk.com/id1296920)  
 [Telegram](https://t.me/yu_boris)
 
-<font size=1>*sql mysql postgresql git linux markdown python jupyter notebook pandas numpy matplotlib seaborn skikit-learn pytorch яндекс.метрика google analytics wordpress powerbi datalens looker studio ms office google office 1с*</font>
+<font size=1>*sql greenplum clickhouse git linux markdown python jupyter notebook pandas numpy matplotlib seaborn skikit-learn pytorch яндекс метрика google analytics wordpress powerbi datalens looker studio ms office google office 1с*</font>
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=gbrs&theme=dark&background=000000" alt="GitHub Streak" /></a>
