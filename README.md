@@ -14,8 +14,8 @@
   <tr>
     <td>
       <img align="left" alt="sql" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
-      <img align="left" alt="mysql" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
-      <img align="left" alt="postgresql" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
+      <img align="left" alt="greenplum" width="32px" src="https://workspace.ru/upload/resize_cache/development_tools/c70/jfdt3e6qmpcavxyf4zyochxepaqskqbu/115_115_1619711fa078991f0a23d032687646b21/greenplum.webp"/>
+      <img align="left" alt="clickhouse" width="32px" src="https://avatars.mds.yandex.net/i?id=2dbdb0ec40cb2ea5c4adbbba4e73f92564b844af-5886703-images-thumbs"/>
     </td>
   </tr>
   <tr>
@@ -39,21 +39,9 @@
   </tr>
   <tr>
     <td>
+      <img align="left" alt="git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
       <img align="left" alt="yandex" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Yandex_Metrica_icon.svg/120px-Yandex_Metrica_icon.svg.png"/>
       <img align="left" alt="google" width="32px" src="https://allwrite.by/img/google.png"/>
-      <img align="left" alt="wordpress" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img align="left" alt="git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-      <img align="left" alt="Linux" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
-      <img align="left" alt="markdown" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"/>
-      <img align="left" alt="regex" width="32px" src="https://avatars.steamstatic.com/22e90661b4acd4b776e80b184b13dd51780e6a2f_medium.jpg"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <img align="left" alt="msoffice" width="32px" src="https://avatars.akamai.steamstatic.com/cda22376aaea3b38da1f6fa609472af1882f30f0_full.jpg"/>
       <img align="left" alt="googleoffice" width="32px" src="https://phandroid.s3.amazonaws.com/wp-content/uploads/2014/10/Google-Drive-Docs-Slides-Sheets-Material-update-640x630.jpg"/>
       <img align="left" alt="1С" width="32px" src="https://sun6-23.userapi.com/s/v1/if1/8KjYGSOFvT__bP312Y4TZZSsYaNwZePe7O_usqd4s9qltUdWulz-wVXWfo4ciuymVnVwKuBT.jpg?size=841x841&quality=96&crop=29,29,841,841&ava=1"/>
