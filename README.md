@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>
-      <img align="left" alt="PowerBI" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/240px-New_Power_BI_Logo.svg.png"/>
+      <img align="left" alt="Superset" width="32px" src="https://avatars.githubusercontent.com/u/42724554?s=200"/>
       <img align="left" alt="DataLens" width="32px" src="https://336118.selcdn.ru/Gutsy-Culebra/products/Yandex-DataLens-Logo.png"/>
       <img align="left" alt="Looker Studio" width="32px" src="https://avatars.githubusercontent.com/u/83476159?v=4?s=400"/>
       <img align="left" alt="matplotlib" width="32px" src="https://miro.medium.com/max/1200/1*rSw5vm4YFEtw-DQsy2ttqQ.png"/>
@@ -34,12 +34,12 @@
       <img align="left" alt="pandas" width="32px" src="https://avatars.githubusercontent.com/u/21206976?v=4"/>
       <img align="left" alt="numpy" width="32px" src="https://numpy.org/images/logo.svg"/>
       <img align="left" alt="scikit-learn" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"/>
-      <img align="left" alt="pytorch" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/496px-PyTorch_logo_icon.svg.png?20200318225611"/>
+      <img align="left" alt="pytorch" width="32px" src="https://mma.prnewswire.com/media/2680748/PyTorch_Logo_2022.jpg?w=300"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img align="left" alt="yandex" width="32px" src="https://bv-dev.ru/wp-content/uploads/2021/03/Яндекс.Метрика.png"/>
+      <img align="left" alt="yandex" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Yandex_Metrica_icon.svg/120px-Yandex_Metrica_icon.svg.png"/>
       <img align="left" alt="google" width="32px" src="https://allwrite.by/img/google.png"/>
       <img align="left" alt="wordpress" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"/>
     </td>
